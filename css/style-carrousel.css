@@ -1,0 +1,85 @@
+header{
+    width: 100%;
+}
+.principal{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.container1{
+    margin: 0 auto;
+}
+ .container1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.img-content{
+    margin: 0 auto;
+}
+
+.principal img{
+        width: 5em;
+        height: auto;
+        margin-right: 1em;
+}
+
+header .container1 h1{
+    margin: 0 auto;
+}
+
+
+.footer{
+    padding-top: 20px;
+    margin-top: 2em !important;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    background: #77dd77;
+}
+
+
+.footer p{
+    margin-left: 10px;
+}
+footer .container img{
+    width: 8em;
+    height: auto;
+}
+
+footer .container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.cont-img{
+    width: 9em;
+    margin: 0 auto;
+}
+
+.cont-text{
+    width: 30em;
+    margin: 0 auto;
+}
+.color1{
+    background: rgb(1, 1, 103);
+}
+
+.color2{
+    background: rgb(2, 2, 207);
+}
+
+footer{
+    bottom: 0;
+}
+
+@media only screen and (max-width: 500px) { /*Quitar la imagen cuando la pantalla sea menor a 500px*/
+    .principal img{
+        display: none;
+}
+  }
+
