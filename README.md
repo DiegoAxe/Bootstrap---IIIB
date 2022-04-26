@@ -9,6 +9,6 @@ Realizado por los alumnos de 3 "B" de Desarrollo de Software:
 
 3-
 
-4-
+4- Diego Ariel Martinez Lemus #24
 
 5- Edmilson Alejandro Martínez Reynosa #25
