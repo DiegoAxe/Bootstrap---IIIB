@@ -7,7 +7,7 @@ Realizado por los alumnos de 3 "B" de Desarrollo de Software:
 
 2- Gerardo Antonio Herrera Cruz #15
 
-3-
+3-Cristian Alexis López Tamayo #18
 
 4- Diego Ariel Martinez Lemus #24
 
